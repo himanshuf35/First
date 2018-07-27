@@ -1,5 +1,5 @@
 //Program to print three buttons associated with the functions to change the color of the document
-//changed
+//changed this one again
 var Interval_Var;
 var color_array = ["#4286f4", "#9e42f4", "#f46e42", "#36601c", "#555953"];
 
